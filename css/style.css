@@ -1,5 +1,23 @@
 body {
+<<<<<<< HEAD
     color : wheat;
     font-family: courier;
      
+=======
+    color : wheat;
+
+}
+
+#rama1 {
+    background-color: black;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+#tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+>>>>>>> rama1
 }
